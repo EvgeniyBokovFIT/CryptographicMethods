@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CryptographicMethods.iml" filepath="$PROJECT_DIR$/CryptographicMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearCongruentialGenerator.iml" filepath="$PROJECT_DIR$/LinearCongruentialGenerator.iml" />
     </modules>
   </component>
 </project>
